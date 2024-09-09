@@ -16,24 +16,21 @@ Its main features are:
 ## Installation
 
 1. Clone the repository:
-
 ```bash
-git clone <repository-url>
+git clone git@github.com:diecatiamonteiro/the-cashier-program.git
 ```
 
-2. Install dependencies: Ensure that you have Chalk installed for colorful console output.
-
+2. Install dependencies: 
 ```bash
 npm install chalk
 ```
 
 3. Run the program: Use Node.js to run your program in the terminal.
-
 ```bash
 node index.js
 ```
 
-## Cashier example
+## Cashier example usage
 
 ![cashier example](/img/cashier-example.png)
 
