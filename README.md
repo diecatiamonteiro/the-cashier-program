@@ -13,7 +13,7 @@ Its main features are:
 - **User-Friendly Messages**: Handles insufficient payment or situations where no change is available with helpful messages.
 - **Stylized Output**: Displays a formatted breakdown of the change to the user using **Chalk** for colorful output in the console.
 
-## Installation
+## Cashier setup
 
 1. Clone the repository:
 ```bash
