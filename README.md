@@ -25,7 +25,7 @@ git clone git@github.com:diecatiamonteiro/the-cashier-program.git
 npm install chalk
 ```
 
-3. Run the program: Use Node.js to run your program in the terminal.
+3. Run the program:
 ```bash
 node index.js
 ```
